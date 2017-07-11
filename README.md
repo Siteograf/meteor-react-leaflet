@@ -1,5 +1,4 @@
-# meteor-react-leaflet
-Minimal working example
+# Meteor React Leaflet – Minimal working example
 
 yarn add leaflet
 yarn add react-leaflet
