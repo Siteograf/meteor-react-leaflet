@@ -1,9 +1,11 @@
 # Meteor React Leaflet – Minimal working example
 
+```
 yarn add leaflet
 yarn add react-leaflet
 yarn add react-leaflet-universal
 meteor add bevanhunt:leaflet     <---- Required!
+```
 
 My case
 
